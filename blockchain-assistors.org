@@ -1,0 +1,144 @@
+:PROPERTIES:
+:ID:       14F0F170-ED83-4645-A85B-688650BC19B6
+:END:
+#+title: Blockchain Specialization
+
+* Some best course for learning
++ [[https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId][MIT Cryptocurrency Engineer Course]]
++ [[https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn][Blockchain and Money]] - Vision for Blockchain in real-world.
++ [[https://www.youtube.com/watch?v=gX3mc83CJtQ&list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_][Everything About DeFi of MOOC]]
+* Blockchain Basic
+** Overview Blockchain
++ Metarials
+  + Overview & History of Blockchain
+    - [[https://blockgeeks.com/guides/history-of-blockchain/][A Concise History of Blockchain Technology]]
+    - [[https://www.youtube.com/watch?v=YIVAluSL9SU][The Visual History]]
+  + Public Private and Hybrid Blockchains
+    - [[https://www.youtube.com/watch?v=pWROdu1O8xw][Public vs Private Blockchain: Understanding the Difference]]
+    - [[https://www.researchgate.net/publication/345934134_Hybrid_Blockchain][What is a Hybrid Blockchain?]]
+  + Understanding Cryptography and Hash Functions
+    - [[https://www.youtube.com/watch?v=b4b8ktEV4Bg][What is Hash Function?]] - Hash Function & Security
+    - [[https://www.youtube.com/watch?v=jhXCTbFnK8o][What is Cryptography?]]
+  + Nodes in Blockchain
+    - [[https://www.youtube.com/watch?v=TnUhGvlJY-4&t=111s][What is Node and how it Works?]]
+  + Smart Contracts and DApps on Blockchain
+    - [[https://www.youtube.com/watch?v=JPkgJwJHYSc][SmartContract & DApps]]
++ Titles to research
+  + What is Blockchain Technology: The first thing  You will reseach is what blockchain technology is and how it works. You will understand the basics of how data is stored and processed on the blockchain.
+  + Distributed Ledger:  You will reseach about the concept of distributed ledger and how it is used in blockchain technology to provide a secure, transparent, and tamper-proof record of transactions.
+  + Blocks and Chains:  You will reseach about the concept of blocks and chains and how they are used to create a secure and immutable record of transactions. You will also learn about the role of cryptographic hashing in ensuring the integrity of the blockchain.
+  + Consensus Mechanisms:  You will reseach about different consensus mechanisms used in blockchain, including Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), and Practical Byzantine Fault Tolerance (PBFT).
+  + Public vs. Private Blockchains:  You will reseach about the differences between public and private blockchains, including their respective advantages and disadvantages.
+  + Smart Contracts:  You will reseach about smart contracts, which are self-executing contracts that can be programmed on the blockchain. You will also learn about the programming languages used to write smart contracts, such as Solidity and Vyper.
+  + Limitations and Challenges: Finally,  You will reseach about the limitations and challenges facing blockchain technology, including scalability, interoperability, and regulatory issues.
+
+** Cryptography & Hashing
++ Metarials
+  + [[https://www.youtube.com/watch?v=YIc6MNfv5iQ][How the Merkle tree enable the decentralized web]]
+  + [[https://www.youtube.com/watch?v=rcNg9KsXuMc][Hashing in Blockchain]]
++ Titles to Research
+  + Cryptography Basics:  You will reseach the basics of cryptography, including encryption, decryption, and hashing. You will also learn about symmetric and asymmetric key algorithms.
+  + Hash Functions:  You will reseach about hash functions and how they are used in blockchain technology. Hash functions are cryptographic algorithms that convert any input data of arbitrary size into a fixed-size output. They are used to ensure the integrity of data on the blockchain.
+  + Hashing in Blockchain:  You will reseach about the specific hash functions used in blockchain technology, such as SHA-256 and Keccak-256. These functions are used to generate a unique digital fingerprint of each block on the blockchain, which is critical to maintaining the integrity of the blockchain.
+  + Merkle Trees:  You will reseach about Merkle trees and how they are used in blockchain technology to efficiently store and verify the integrity of large sets of data. Merkle trees are a type of data structure that allow for efficient verification of the authenticity of data in large datasets.
+  + Key Management:  You will reseach about the importance of key management in blockchain technology, including private and public keys, digital signatures, and key management best practices.
+  + Zero-Knowledge Proofs:  You will reseach about zero-knowledge proofs, which are cryptographic protocols that enable one party to prove to another party that a statement is true without revealing any additional information beyond the statement itself. Zero-knowledge proofs are used in blockchain technology to enable privacy-preserving transactions.
+
+** Consensus algorithms
++ Metarials
+  + [[https://www.youtube.com/watch?v=lB81CiQj21E][Consensus Algorithms]]: Proof of Work, Proof of Stake, Proof of Authority
+    - [[https://www.investopedia.com/terms/p/proof-work.asp][Proof of Works - POW]]
+    - [[https://www.youtube.com/watch?v=M3EFi_POhps][POS vs POW]]
+    - [[https://www.youtube.com/watch?v=zYzEmBlJ77s][Proof of Work - Mining]]
+  + [[https://www.youtube.com/watch?v=VWG9xcwjxUg][What is PBFT]]
+  + [[https://www.sciencedirect.com/science/article/pii/S1319157822002919][Deep about PBFT]]
++ Titles to research
+  + What is a Consensus Algorithm:  You will reseach what a consensus algorithm is and why it is necessary for blockchain technology. A consensus algorithm is a process used to achieve agreement among a network of nodes on the state of the blockchain.
+  + Proof of Work (PoW):  You will reseach about the most well-known consensus algorithm, Proof of Work (PoW), which is used by the Bitcoin blockchain. PoW requires nodes on the network to perform complex computational puzzles to add a new block to the blockchain.
+  + Proof of Stake (PoS):  You will reseach about Proof of Stake (PoS), a newer consensus algorithm used by blockchains such as Ethereum. PoS requires nodes to stake a certain amount of cryptocurrency to participate in the consensus process.
+  + Delegated Proof of Stake (DPoS):  You will reseach about Delegated Proof of Stake (DPoS), a consensus algorithm used by blockchains such as EOS. DPoS involves electing a small group of nodes to validate transactions and create new blocks on the blockchain.
+  + Practical Byzantine Fault Tolerance (PBFT):  You will reseach about Practical Byzantine Fault Tolerance (PBFT), a consensus algorithm used by some enterprise blockchains. PBFT requires nodes to communicate with each other to validate transactions and reach consensus on the state of the blockchain.
+  + Other Consensus Algorithms: You will also learn about other consensus algorithms, such as Proof of Authority (PoA) and Hybrid Consensus, which combine elements of different consensus algorithms.
+  + Consensus Algorithm Trade-offs:  You will reseach about the trade-offs between different consensus algorithms, such as security, scalability, energy efficiency, and decentralization. You will also learn about the implications of choosing a particular consensus algorithm for the blockchain's functionality and user experience.
+
+** Cryptography and Security in Blockchain
++ [[https://www.youtube.com/watch?v=0Q5IimX-AAc][Public Key Cryptography and Digital Signatures]]
++ Elliptic Curve Cryptography (ECC) and Private Keys
+  + [[https://www.youtube.com/watch?v=bylH7B79OzQ][Elloptic Curve]] - Dang Minh Tuan
++ Quantum Computing and its impact on Blockchain Security
+
+* Introduction to Smart Contracts
++ Definition and Concept of Smart Contracts
++ Comparison of Traditional Contracts and Smart Contracts
++ Advantages and Disadvantages of Smart Contracts
++ Smart Contract Programming Languages: Solidity, Rust, Move, Cadance, Haskell
++ Developing Smart Contracts using Integrated Development Environments (IDEs)
+
+* Smartcontract & Decentralized Application
++ Overview of Ethereum Blockchain Network
++ Ethereum Virtual Machine (EVM) and Smart Contract Execution
++ Gas Fees and Gas Limits in Ethereum
++ Ethereum Improvement Proposals (EIPs) and Network Upgrades
++ Building DApps and DAOs on Ethereum
+
+* Building Decentralized Applications (dApps) on Ethereum
++ Components of a Decentralized Application
++ Front-end Development for dApps using React or Angular
++ Back-end Development for dApps using Node.js or Python
++ Deployment of dApps on Ethereum Blockchain Network
++ Integration with Metamask Wallet and Other Ethereum Tools
+
+* Blockchain Scalability and Sharding
++ Challenges with Blockchain Scalability and Performance
++ Solutions for Scaling Blockchain Networks: Sharding, Sidechains, Off-chain Scaling
++ Understanding Layer 2 Solutions: State Channels, Plasma, Rollups
++ Case Studies of Blockchain Scaling Solutions
++ Future of Blockchain Scalability and Performance
+
+* Interoperability of Blockchain Networks
++ Introduction to Blockchain Interoperability
++ Challenges and Benefits of Interoperability
++ Types of Blockchain Interoperability: Cross-Chain Communication, Interledger Protocols
++ Use Cases for Blockchain Interoperability
++ Interoperability Projects: Polkadot, Cosmos
+* Decentralized Finance (DeFi) on Blockchain
++ Overview of Decentralized Finance (DeFi) and its Advantages
++ Popular DeFi Applications: Decentralized Exchanges, Lending Platforms, Prediction Markets
++ DeFi Tokens and Tokenomics
++ Risks and Challenges in DeFi: Security, Liquidity, Governance
++ Future of DeFi and its Impact on Traditional Finance
+* Non-Fungible Tokens (NFTs)
++ Introduction to Non-Fungible Tokens (NFTs)
++ How NFTs are Different from Traditional Cryptocurrencies
++ Popular NFT Use Cases: Digital Art, Gaming, Collectibles
++ Development of NFT Marketplaces
++ Future of NFTs and their Potential Impact on Digital Ownership
+* Blockchain Governance and Regulation
++ Governance Models for Blockchain Networks: Decentralized, Centralized, Hybrid
++ Self-Regulatory Organizations (SROs) and their Role in Blockchain Governance
++ Legal and Regulatory Challenges of Blockchain Technology
++ Global Regulatory Landscape for Blockchain and Cryptocurrencies
++ Future of Blockchain Governance and Regulation
+* Building Blockchain Applications using Hyperledger Fabric
++ Overview of Hyperledger Fabric Blockchain Network
++ Developing Smart Contracts using Chaincode
++ Hyperledger Fabric Membership Service Providers (MSPs)
++ Network Topology and Channel Configuration in Hyperledger Fabric
++ Deployment and Testing of Blockchain Applications on Hyperledger Fabric
+* Integration of Smart Contracts with External Data Sources
++ Challenges and Benefits of Smart Contract Integration with External Data Sources
++ Oracles and their Role in Smart Contract Data Integration
++ Integration of Smart Contracts with APIs and Web Services
++ Smart Contract Data Feeds and Oracles: Chainlink, Band Protocol
+* Privacy and Security in Blockchain Networks
++ Challenges and Solutions for Privacy in Blockchain Networks
++ Zero-Knowledge Proofs and their Applications in Privacy
++ Security Threats to Blockchain Networks: 51% Attack, Double Spend Attack
++ Techniques for Securing Blockchain Networks: Hashing, Digital Signatures, Encryption
++ Future of Privacy and Security in Blockchain Networks
+* Cryptoeconomics and Game Theory in Blockchain Networks
++ Introduction to Cryptoeconomics and Game Theory
++ Cryptoeconomic Models for Blockchain Networks
++ Mechanism Design and Auction Theory in Cryptoeconomics
++ Game Theory Applications in Blockchain Networks
++ Future of Cryptoeconomics and Game Theory in Blockchain Networks
